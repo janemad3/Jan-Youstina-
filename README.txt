@@ -1,0 +1,1 @@
+Open index.html. Replace reply() with a fetch() call to your Google Apps Script Web App to store RSVP responses in Google Sheets.

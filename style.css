@@ -1,0 +1,5 @@
+body{margin:0;font-family:Georgia,serif;background:#faf7f1;color:#5a4a2f}
+.hero{max-width:700px;margin:auto;padding:40px;text-align:center}
+h1{font-size:52px}span{color:#b8943a}.card{border:1px solid #d9c27a;padding:20px;border-radius:16px;background:white}
+.btn,button{display:inline-block;margin:10px;padding:12px 18px;border:none;border-radius:10px;background:#b8943a;color:#fff;text-decoration:none;cursor:pointer}
+input{padding:10px;width:80%;max-width:300px}
